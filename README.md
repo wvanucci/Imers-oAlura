@@ -1,6 +1,6 @@
 # Imersão Alura
 # Aulas de Análise de Dados com Python:
-  # Manipulação de Dados com Pandas
+#  Manipulação de Dados com Pandas
   # Criação de gráficos
   # Previsão de Séries Temporais
 
